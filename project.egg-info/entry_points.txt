@@ -1,0 +1,6 @@
+[scrapy]
+settings = srap.settings
+
+[scrapy.commands]
+my_command = srap.commands:allcrawl
+
