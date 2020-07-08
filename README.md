@@ -1,3 +1,5 @@
 # newsgrabber
-it will grab newspaper datas from various news website and upload it to a certain database using scrapy framework
+Web Scraper for grabbing newspaper data
+Grabs all the newspaper heading and the chunks of news and metadatas. Pushes them in Database for
+further use.
 
