@@ -1,5 +1,11 @@
 # newsgrabber
-Web Scraper for grabbing newspaper data
-Grabs all the newspaper heading and the chunks of news and metadatas. Pushes them in Database for
-further use.
+An API fro grabbing news paper data from various sources.
+
+The demo pulls data from the prothomalo.com economy sections and stores into database
+
+## Requirements
+
+`Python`
+`Scrapy`
+`pymysql`
 
